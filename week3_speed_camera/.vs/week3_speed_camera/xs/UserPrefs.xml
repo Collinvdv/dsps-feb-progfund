@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AB92CB87-09FD-42B1-A598-65DD304DE7BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="week3_speed_camera/Program.cs">
+    <Files>
+      <File FileName="week3_speed_camera/Program.cs" Line="52" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week3_speed_camera" expanded="True">
+            <Node name="week3_speed_camera" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.week3__speed__camera PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

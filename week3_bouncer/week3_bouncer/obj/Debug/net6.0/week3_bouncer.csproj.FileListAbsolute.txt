@@ -1,0 +1,15 @@
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/bin/Debug/net6.0/week3_bouncer
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/bin/Debug/net6.0/week3_bouncer.deps.json
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/bin/Debug/net6.0/week3_bouncer.runtimeconfig.json
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/bin/Debug/net6.0/week3_bouncer.dll
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/bin/Debug/net6.0/week3_bouncer.pdb
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/obj/Debug/net6.0/week3_bouncer.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/obj/Debug/net6.0/week3_bouncer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/obj/Debug/net6.0/week3_bouncer.AssemblyInfoInputs.cache
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/obj/Debug/net6.0/week3_bouncer.AssemblyInfo.cs
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/obj/Debug/net6.0/week3_bouncer.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/obj/Debug/net6.0/week3_bouncer.dll
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/obj/Debug/net6.0/refint/week3_bouncer.dll
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/obj/Debug/net6.0/week3_bouncer.pdb
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/obj/Debug/net6.0/week3_bouncer.genruntimeconfig.cache
+/Users/collinvandervorst/Projects/week3_bouncer/week3_bouncer/obj/Debug/net6.0/ref/week3_bouncer.dll

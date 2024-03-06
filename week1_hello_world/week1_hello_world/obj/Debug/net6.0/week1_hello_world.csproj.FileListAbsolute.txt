@@ -1,0 +1,15 @@
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/bin/Debug/net6.0/week1_hello_world
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/bin/Debug/net6.0/week1_hello_world.deps.json
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/bin/Debug/net6.0/week1_hello_world.runtimeconfig.json
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/bin/Debug/net6.0/week1_hello_world.dll
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/bin/Debug/net6.0/week1_hello_world.pdb
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/obj/Debug/net6.0/week1_hello_world.csproj.AssemblyReference.cache
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/obj/Debug/net6.0/week1_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/obj/Debug/net6.0/week1_hello_world.AssemblyInfoInputs.cache
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/obj/Debug/net6.0/week1_hello_world.AssemblyInfo.cs
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/obj/Debug/net6.0/week1_hello_world.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/obj/Debug/net6.0/week1_hello_world.dll
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/obj/Debug/net6.0/refint/week1_hello_world.dll
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/obj/Debug/net6.0/week1_hello_world.pdb
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/obj/Debug/net6.0/week1_hello_world.genruntimeconfig.cache
+/Users/collinvandervorst/School/prog_fund/week1_hello_world/week1_hello_world/obj/Debug/net6.0/ref/week1_hello_world.dll

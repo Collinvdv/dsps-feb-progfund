@@ -1,0 +1,15 @@
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/bin/Debug/net7.0/recap_niloe
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/bin/Debug/net7.0/recap_niloe.deps.json
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/bin/Debug/net7.0/recap_niloe.runtimeconfig.json
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/bin/Debug/net7.0/recap_niloe.dll
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/bin/Debug/net7.0/recap_niloe.pdb
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/obj/Debug/net7.0/recap_niloe.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/obj/Debug/net7.0/recap_niloe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/obj/Debug/net7.0/recap_niloe.AssemblyInfoInputs.cache
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/obj/Debug/net7.0/recap_niloe.AssemblyInfo.cs
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/obj/Debug/net7.0/recap_niloe.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/obj/Debug/net7.0/recap_niloe.dll
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/obj/Debug/net7.0/refint/recap_niloe.dll
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/obj/Debug/net7.0/recap_niloe.pdb
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/obj/Debug/net7.0/recap_niloe.genruntimeconfig.cache
+/Users/collinvandervorst/Projects/recap_niloe/recap_niloe/obj/Debug/net7.0/ref/recap_niloe.dll

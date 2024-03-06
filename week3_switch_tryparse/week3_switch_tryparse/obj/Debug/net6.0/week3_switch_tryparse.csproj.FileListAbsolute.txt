@@ -1,0 +1,15 @@
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/bin/Debug/net6.0/week3_switch_tryparse
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/bin/Debug/net6.0/week3_switch_tryparse.deps.json
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/bin/Debug/net6.0/week3_switch_tryparse.runtimeconfig.json
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/bin/Debug/net6.0/week3_switch_tryparse.dll
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/bin/Debug/net6.0/week3_switch_tryparse.pdb
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/obj/Debug/net6.0/week3_switch_tryparse.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/obj/Debug/net6.0/week3_switch_tryparse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/obj/Debug/net6.0/week3_switch_tryparse.AssemblyInfoInputs.cache
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/obj/Debug/net6.0/week3_switch_tryparse.AssemblyInfo.cs
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/obj/Debug/net6.0/week3_switch_tryparse.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/obj/Debug/net6.0/week3_switch_tryparse.dll
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/obj/Debug/net6.0/refint/week3_switch_tryparse.dll
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/obj/Debug/net6.0/week3_switch_tryparse.pdb
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/obj/Debug/net6.0/week3_switch_tryparse.genruntimeconfig.cache
+/Users/collinvandervorst/Projects/week3_switch_tryparse/week3_switch_tryparse/obj/Debug/net6.0/ref/week3_switch_tryparse.dll

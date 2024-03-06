@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C6B43CBD-74C2-4BD6-B973-FA67BE9B6A06}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="week3_bouncer/Program.cs">
+    <Files>
+      <File FileName="week3_bouncer/Program.cs" Line="38" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week3_bouncer" expanded="True">
+            <Node name="week3_bouncer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.week3__bouncer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

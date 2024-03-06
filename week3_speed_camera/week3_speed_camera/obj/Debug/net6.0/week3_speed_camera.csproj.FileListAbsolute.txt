@@ -1,0 +1,15 @@
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/bin/Debug/net6.0/week3_speed_camera
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/bin/Debug/net6.0/week3_speed_camera.deps.json
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/bin/Debug/net6.0/week3_speed_camera.runtimeconfig.json
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/bin/Debug/net6.0/week3_speed_camera.dll
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/bin/Debug/net6.0/week3_speed_camera.pdb
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/obj/Debug/net6.0/week3_speed_camera.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/obj/Debug/net6.0/week3_speed_camera.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/obj/Debug/net6.0/week3_speed_camera.AssemblyInfoInputs.cache
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/obj/Debug/net6.0/week3_speed_camera.AssemblyInfo.cs
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/obj/Debug/net6.0/week3_speed_camera.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/obj/Debug/net6.0/week3_speed_camera.dll
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/obj/Debug/net6.0/refint/week3_speed_camera.dll
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/obj/Debug/net6.0/week3_speed_camera.pdb
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/obj/Debug/net6.0/week3_speed_camera.genruntimeconfig.cache
+/Users/collinvandervorst/Projects/week3_speed_camera/week3_speed_camera/obj/Debug/net6.0/ref/week3_speed_camera.dll
