@@ -1,0 +1,16 @@
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/bin/Debug/net6.0/week5_files
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/bin/Debug/net6.0/week5_files.deps.json
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/bin/Debug/net6.0/week5_files.runtimeconfig.json
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/bin/Debug/net6.0/week5_files.dll
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/bin/Debug/net6.0/week5_files.pdb
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/obj/Debug/net6.0/week5_files.csproj.AssemblyReference.cache
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/obj/Debug/net6.0/week5_files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/obj/Debug/net6.0/week5_files.AssemblyInfoInputs.cache
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/obj/Debug/net6.0/week5_files.AssemblyInfo.cs
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/obj/Debug/net6.0/week5_files.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/obj/Debug/net6.0/week5_files.dll
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/obj/Debug/net6.0/refint/week5_files.dll
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/obj/Debug/net6.0/week5_files.pdb
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/obj/Debug/net6.0/week5_files.genruntimeconfig.cache
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/obj/Debug/net6.0/ref/week5_files.dll
+/Users/collinvandervorst/School/prog_fund/week5_files/week5_files/bin/Debug/net6.0/EmptyTextFile.txt

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{903A37B4-CF6A-4638-AD6C-D8BCF8F23BF5}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="week5_reading/Program.cs">
+    <Files>
+      <File FileName="week5_reading/Program.cs" Line="44" Column="1" />
+      <File FileName="week5_reading/visitors.txt" Line="2" Column="7" />
+      <File FileName="week5_reading/votes.txt" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week5_reading" expanded="True">
+            <Node name="week5_reading">
+              <Node name="votes.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.week5__reading PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

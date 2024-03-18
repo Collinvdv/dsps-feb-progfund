@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FA07FA0E-608A-4FA9-9992-BE58769A9A9B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.week5__eurosong PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="week5_eurosong/Program.cs">
+    <Files>
+      <File FileName="week5_eurosong/Program.cs" Line="56" Column="1" />
+      <File FileName="week5_eurosong/eurosong.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week5_eurosong" expanded="True">
+            <Node name="week5_eurosong">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

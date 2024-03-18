@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week5_eurosong", "week5_eurosong\week5_eurosong.csproj", "{FA07FA0E-608A-4FA9-9992-BE58769A9A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA07FA0E-608A-4FA9-9992-BE58769A9A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA07FA0E-608A-4FA9-9992-BE58769A9A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA07FA0E-608A-4FA9-9992-BE58769A9A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA07FA0E-608A-4FA9-9992-BE58769A9A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C35303E3-27C1-45F0-9DBA-ADF56F326ECC}
+	EndGlobalSection
+EndGlobal

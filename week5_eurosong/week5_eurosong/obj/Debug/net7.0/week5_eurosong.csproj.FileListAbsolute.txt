@@ -1,0 +1,17 @@
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/bin/Debug/net7.0/week5_eurosong
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/bin/Debug/net7.0/Program.cs
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/bin/Debug/net7.0/week5_eurosong.deps.json
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/bin/Debug/net7.0/week5_eurosong.runtimeconfig.json
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/bin/Debug/net7.0/week5_eurosong.dll
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/bin/Debug/net7.0/week5_eurosong.pdb
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/obj/Debug/net7.0/week5_eurosong.csproj.AssemblyReference.cache
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/obj/Debug/net7.0/week5_eurosong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/obj/Debug/net7.0/week5_eurosong.AssemblyInfoInputs.cache
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/obj/Debug/net7.0/week5_eurosong.AssemblyInfo.cs
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/obj/Debug/net7.0/week5_eurosong.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/obj/Debug/net7.0/week5_eurosong.dll
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/obj/Debug/net7.0/refint/week5_eurosong.dll
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/obj/Debug/net7.0/week5_eurosong.pdb
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/obj/Debug/net7.0/week5_eurosong.genruntimeconfig.cache
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/obj/Debug/net7.0/ref/week5_eurosong.dll
+/Users/collinvandervorst/School/prog_fund/week5_eurosong/week5_eurosong/bin/Debug/net7.0/eurosong.txt

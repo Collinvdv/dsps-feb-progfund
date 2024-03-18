@@ -1,0 +1,15 @@
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/bin/Debug/net6.0/week5_files_theory
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/bin/Debug/net6.0/week5_files_theory.deps.json
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/bin/Debug/net6.0/week5_files_theory.runtimeconfig.json
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/bin/Debug/net6.0/week5_files_theory.dll
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/bin/Debug/net6.0/week5_files_theory.pdb
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/obj/Debug/net6.0/week5_files_theory.csproj.AssemblyReference.cache
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/obj/Debug/net6.0/week5_files_theory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/obj/Debug/net6.0/week5_files_theory.AssemblyInfoInputs.cache
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/obj/Debug/net6.0/week5_files_theory.AssemblyInfo.cs
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/obj/Debug/net6.0/week5_files_theory.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/obj/Debug/net6.0/week5_files_theory.dll
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/obj/Debug/net6.0/refint/week5_files_theory.dll
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/obj/Debug/net6.0/week5_files_theory.pdb
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/obj/Debug/net6.0/week5_files_theory.genruntimeconfig.cache
+/Users/collinvandervorst/School/prog_fund/week5_files_theory/week5_files_theory/obj/Debug/net6.0/ref/week5_files_theory.dll
