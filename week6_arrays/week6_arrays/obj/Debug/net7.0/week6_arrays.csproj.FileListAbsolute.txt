@@ -1,0 +1,15 @@
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/bin/Debug/net7.0/week6_arrays
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/bin/Debug/net7.0/week6_arrays.deps.json
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/bin/Debug/net7.0/week6_arrays.runtimeconfig.json
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/bin/Debug/net7.0/week6_arrays.dll
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/bin/Debug/net7.0/week6_arrays.pdb
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/obj/Debug/net7.0/week6_arrays.csproj.AssemblyReference.cache
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/obj/Debug/net7.0/week6_arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/obj/Debug/net7.0/week6_arrays.AssemblyInfoInputs.cache
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/obj/Debug/net7.0/week6_arrays.AssemblyInfo.cs
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/obj/Debug/net7.0/week6_arrays.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/obj/Debug/net7.0/week6_arrays.dll
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/obj/Debug/net7.0/refint/week6_arrays.dll
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/obj/Debug/net7.0/week6_arrays.pdb
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/obj/Debug/net7.0/week6_arrays.genruntimeconfig.cache
+/Users/collinvandervorst/School/prog_fund/week6_arrays/week6_arrays/obj/Debug/net7.0/ref/week6_arrays.dll
