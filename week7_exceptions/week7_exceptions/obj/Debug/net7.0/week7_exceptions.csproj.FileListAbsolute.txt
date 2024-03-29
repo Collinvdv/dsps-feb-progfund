@@ -1,0 +1,18 @@
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/bin/Debug/net7.0/week7_exceptions
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/bin/Debug/net7.0/week7_exceptions.deps.json
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/bin/Debug/net7.0/week7_exceptions.runtimeconfig.json
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/bin/Debug/net7.0/week7_exceptions.dll
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/bin/Debug/net7.0/week7_exceptions.pdb
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/obj/Debug/net7.0/week7_exceptions.csproj.AssemblyReference.cache
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/obj/Debug/net7.0/week7_exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/obj/Debug/net7.0/week7_exceptions.AssemblyInfoInputs.cache
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/obj/Debug/net7.0/week7_exceptions.AssemblyInfo.cs
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/obj/Debug/net7.0/week7_exceptions.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/obj/Debug/net7.0/week7_exceptions.dll
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/obj/Debug/net7.0/refint/week7_exceptions.dll
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/obj/Debug/net7.0/week7_exceptions.pdb
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/obj/Debug/net7.0/week7_exceptions.genruntimeconfig.cache
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/obj/Debug/net7.0/ref/week7_exceptions.dll
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/bin/Debug/net7.0/donkey.txt
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/bin/Debug/net7.0/Program.cs
+/Users/collinvandervorst/School/prog_fund/week7_exceptions/week7_exceptions/bin/Debug/net7.0/Harry Potter 1.csv
