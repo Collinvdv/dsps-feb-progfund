@@ -1,0 +1,15 @@
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/bin/Debug/net7.0/week10_assignment
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/bin/Debug/net7.0/week10_assignment.deps.json
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/bin/Debug/net7.0/week10_assignment.runtimeconfig.json
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/bin/Debug/net7.0/week10_assignment.dll
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/bin/Debug/net7.0/week10_assignment.pdb
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/obj/Debug/net7.0/week10_assignment.csproj.AssemblyReference.cache
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/obj/Debug/net7.0/week10_assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/obj/Debug/net7.0/week10_assignment.AssemblyInfoInputs.cache
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/obj/Debug/net7.0/week10_assignment.AssemblyInfo.cs
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/obj/Debug/net7.0/week10_assignment.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/obj/Debug/net7.0/week10_assignment.dll
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/obj/Debug/net7.0/refint/week10_assignment.dll
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/obj/Debug/net7.0/week10_assignment.pdb
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/obj/Debug/net7.0/week10_assignment.genruntimeconfig.cache
+/Users/collinvandervorst/School/prog_fund/week10_assignment/week10_assignment/obj/Debug/net7.0/ref/week10_assignment.dll
