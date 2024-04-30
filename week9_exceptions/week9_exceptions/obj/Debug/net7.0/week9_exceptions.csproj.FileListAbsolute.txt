@@ -1,0 +1,16 @@
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/bin/Debug/net7.0/soccer.txt
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/bin/Debug/net7.0/week9_exceptions
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/bin/Debug/net7.0/week9_exceptions.deps.json
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/bin/Debug/net7.0/week9_exceptions.runtimeconfig.json
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/bin/Debug/net7.0/week9_exceptions.dll
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/bin/Debug/net7.0/week9_exceptions.pdb
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/obj/Debug/net7.0/week9_exceptions.csproj.AssemblyReference.cache
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/obj/Debug/net7.0/week9_exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/obj/Debug/net7.0/week9_exceptions.AssemblyInfoInputs.cache
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/obj/Debug/net7.0/week9_exceptions.AssemblyInfo.cs
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/obj/Debug/net7.0/week9_exceptions.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/obj/Debug/net7.0/week9_exceptions.dll
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/obj/Debug/net7.0/refint/week9_exceptions.dll
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/obj/Debug/net7.0/week9_exceptions.pdb
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/obj/Debug/net7.0/week9_exceptions.genruntimeconfig.cache
+/Users/collinvandervorst/School/prog_fund/week9_exceptions/week9_exceptions/obj/Debug/net7.0/ref/week9_exceptions.dll

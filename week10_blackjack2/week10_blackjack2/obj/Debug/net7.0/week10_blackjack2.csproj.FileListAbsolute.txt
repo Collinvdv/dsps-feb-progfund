@@ -1,0 +1,15 @@
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/bin/Debug/net7.0/week10_blackjack2
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/bin/Debug/net7.0/week10_blackjack2.deps.json
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/bin/Debug/net7.0/week10_blackjack2.runtimeconfig.json
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/bin/Debug/net7.0/week10_blackjack2.dll
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/bin/Debug/net7.0/week10_blackjack2.pdb
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/obj/Debug/net7.0/week10_blackjack2.csproj.AssemblyReference.cache
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/obj/Debug/net7.0/week10_blackjack2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/obj/Debug/net7.0/week10_blackjack2.AssemblyInfoInputs.cache
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/obj/Debug/net7.0/week10_blackjack2.AssemblyInfo.cs
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/obj/Debug/net7.0/week10_blackjack2.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/obj/Debug/net7.0/week10_blackjack2.dll
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/obj/Debug/net7.0/refint/week10_blackjack2.dll
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/obj/Debug/net7.0/week10_blackjack2.pdb
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/obj/Debug/net7.0/week10_blackjack2.genruntimeconfig.cache
+/Users/collinvandervorst/School/prog_fund/week10_blackjack2/week10_blackjack2/obj/Debug/net7.0/ref/week10_blackjack2.dll

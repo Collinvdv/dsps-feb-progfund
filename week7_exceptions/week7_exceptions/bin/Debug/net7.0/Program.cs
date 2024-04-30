@@ -225,26 +225,56 @@ class Program
         // O: How many phrases has following character?
         // I: Hagrid
         // O: ???
-        StreamReader reader = File.OpenText("Harry Potter 1.csv");
+        //StreamReader reader = File.OpenText("Harry Potter 1.csv");
 
-        string givenCharacter = Console.ReadLine(); // Hagrid
-        int count = 0;
-        string line = reader.ReadLine();
+        //int count = 0;
+        //string line = reader.ReadLine();
+        //string givenCharacter = Console.ReadLine(); // Hagrid
 
-        while (line != null)
+        //while (line != null)
+        //{
+        //    string character = line.Split(';')[0];
+
+        //    if (givenCharacter.ToUpper() == character.ToUpper())
+        //    {
+        //        count++;
+        //    }
+
+        //    line = reader.ReadLine();
+        //}
+
+        //Console.WriteLine(count);
+
+        int number = Convert.ToInt16(Console.ReadLine());
+
+        for (int line = 1; line <= number; line++)
         {
-            string character = line.Split(';')[0];
+            int amountOfTildes = number - line;
+            string symbols = "";
 
-            if (character.ToUpper() == givenCharacter.ToUpper())
+            // Create the left side
+            for (int col = 0; col < number; col++)
             {
-                count++;
+
+                if (col >= number - amountOfTildes)
+                {
+                    symbols += "˜";
+                } else
+                {
+                    symbols += "0";
+                }
             }
 
-            line = reader.ReadLine();
+            // Create the right side
+            string reversedSymbols = "";
+            for (int i = symbols.Length - 1; i >= 0 ; i--)
+            {
+                reversedSymbols += symbols[i];
+            }
+
+            Console.WriteLine(symbols + reversedSymbols);
+
         }
-
-        Console.WriteLine(count);
-
     }
 
 

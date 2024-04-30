@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{C15387A7-7751-42D4-B74A-4709ADF16F9E}|Default">
-  <MonoDevelop.Ide.ItemProperties.week7__exceptions FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.week7__exceptions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="week7_exceptions/Program.cs">
+    <Files>
+      <File FileName="week7_exceptions/Program.cs" Line="169" Column="9" />
+      <File FileName="week7_exceptions/Harry Potter 1.csv" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week7_exceptions">
+            <Node name="week7_exceptions">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
