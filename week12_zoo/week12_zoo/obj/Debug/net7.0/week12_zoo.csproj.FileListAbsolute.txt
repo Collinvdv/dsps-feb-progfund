@@ -1,0 +1,15 @@
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/bin/Debug/net7.0/week12_zoo
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/bin/Debug/net7.0/week12_zoo.deps.json
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/bin/Debug/net7.0/week12_zoo.runtimeconfig.json
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/bin/Debug/net7.0/week12_zoo.dll
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/bin/Debug/net7.0/week12_zoo.pdb
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/obj/Debug/net7.0/week12_zoo.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/obj/Debug/net7.0/week12_zoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/obj/Debug/net7.0/week12_zoo.AssemblyInfoInputs.cache
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/obj/Debug/net7.0/week12_zoo.AssemblyInfo.cs
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/obj/Debug/net7.0/week12_zoo.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/obj/Debug/net7.0/week12_zoo.dll
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/obj/Debug/net7.0/refint/week12_zoo.dll
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/obj/Debug/net7.0/week12_zoo.pdb
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/obj/Debug/net7.0/week12_zoo.genruntimeconfig.cache
+/Users/collinvandervorst/Projects/week12_zoo/week12_zoo/obj/Debug/net7.0/ref/week12_zoo.dll

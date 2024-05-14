@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "week12_zoo/1.0.0": {
+        "runtime": {
+          "week12_zoo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "week12_zoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
