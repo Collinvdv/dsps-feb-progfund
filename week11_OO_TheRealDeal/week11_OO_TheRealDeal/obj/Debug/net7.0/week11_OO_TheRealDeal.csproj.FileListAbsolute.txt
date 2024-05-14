@@ -1,0 +1,16 @@
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/bin/Debug/net7.0/week11_OO_TheRealDeal
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/bin/Debug/net7.0/week11_OO_TheRealDeal.deps.json
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/bin/Debug/net7.0/week11_OO_TheRealDeal.runtimeconfig.json
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/bin/Debug/net7.0/week11_OO_TheRealDeal.dll
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/bin/Debug/net7.0/week11_OO_TheRealDeal.pdb
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/obj/Debug/net7.0/week11_OO_TheRealDeal.csproj.AssemblyReference.cache
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/obj/Debug/net7.0/week11_OO_TheRealDeal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/obj/Debug/net7.0/week11_OO_TheRealDeal.AssemblyInfoInputs.cache
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/obj/Debug/net7.0/week11_OO_TheRealDeal.AssemblyInfo.cs
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/obj/Debug/net7.0/week11_OO_TheRealDeal.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/obj/Debug/net7.0/week11_OO_TheRealDeal.dll
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/obj/Debug/net7.0/refint/week11_OO_TheRealDeal.dll
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/obj/Debug/net7.0/week11_OO_TheRealDeal.pdb
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/obj/Debug/net7.0/week11_OO_TheRealDeal.genruntimeconfig.cache
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/obj/Debug/net7.0/ref/week11_OO_TheRealDeal.dll
+/Users/collinvandervorst/School/prog_fund/week11_OO_TheRealDeal/week11_OO_TheRealDeal/bin/Debug/net7.0/persons.txt

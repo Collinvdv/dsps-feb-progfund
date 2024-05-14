@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0AB023CE-4604-42E1-A227-F27E7B43E02B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="week11_OO_TheRealDeal/Program.cs">
+    <Files>
+      <File FileName="week11_OO_TheRealDeal/Program.cs" Line="25" Column="32" />
+      <File FileName="week11_OO_TheRealDeal/Person.cs" Line="29" Column="21" />
+      <File FileName="week11_OO_TheRealDeal/Doctor.cs" Line="26" Column="70" />
+      <File FileName="week11_OO_TheRealDeal/Fighter.cs" Line="29" Column="48" />
+      <File FileName="week11_OO_TheRealDeal/persons.txt" Line="4" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week11_OO_TheRealDeal" expanded="True">
+            <Node name="week11_OO_TheRealDeal">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.week11__OO__TheRealDeal PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
