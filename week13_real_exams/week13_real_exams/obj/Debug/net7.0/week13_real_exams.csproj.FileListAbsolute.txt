@@ -1,0 +1,16 @@
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/bin/Debug/net7.0/week13_real_exams
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/bin/Debug/net7.0/names.txt
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/bin/Debug/net7.0/week13_real_exams.deps.json
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/bin/Debug/net7.0/week13_real_exams.runtimeconfig.json
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/bin/Debug/net7.0/week13_real_exams.dll
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/bin/Debug/net7.0/week13_real_exams.pdb
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/obj/Debug/net7.0/week13_real_exams.csproj.AssemblyReference.cache
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/obj/Debug/net7.0/week13_real_exams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/obj/Debug/net7.0/week13_real_exams.AssemblyInfoInputs.cache
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/obj/Debug/net7.0/week13_real_exams.AssemblyInfo.cs
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/obj/Debug/net7.0/week13_real_exams.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/obj/Debug/net7.0/week13_real_exams.dll
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/obj/Debug/net7.0/refint/week13_real_exams.dll
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/obj/Debug/net7.0/week13_real_exams.pdb
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/obj/Debug/net7.0/week13_real_exams.genruntimeconfig.cache
+/Users/collinvandervorst/School/prog_fund/week13_real_exams/week13_real_exams/obj/Debug/net7.0/ref/week13_real_exams.dll
